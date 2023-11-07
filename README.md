@@ -1,0 +1,2 @@
+# automedic
+Advantech automedic project
